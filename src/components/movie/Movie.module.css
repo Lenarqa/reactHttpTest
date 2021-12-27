@@ -1,0 +1,15 @@
+.movie {
+    margin: 1rem auto;
+    padding: 2rem;
+    max-width: 80%;
+    background-color: #1f0044;
+    border-radius: 15px;
+}
+
+.movie h2 {
+    color: #f4e315;
+}
+
+.movie p {
+    color: white;
+}
